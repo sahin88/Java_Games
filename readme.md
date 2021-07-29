@@ -4,17 +4,17 @@ Java Games consist of 4 games "Bricket Bricker", "Ping-Pong", "Snake" and "Flapp
 
 
 ##  Basic View
-Snake
-![alt text](https://github.com/sahin88/Python_Pygame_Maze_Solver/blob/main/mazer_solver.png)
+#### Snake
+![alt text](https://github.com/sahin88/Java_Games/blob/main/snake.png)
 
-Ping-Pong
-![alt text](https://github.com/sahin88/Python_Pygame_Maze_Solver/blob/main/mazer_solver.png)
+##### Ping-Pong
+![alt text](https://github.com/sahin88/Java_Games/blob/main/ping-pong.png)
 
-Brick breaker
-![alt text](https://github.com/sahin88/Python_Pygame_Maze_Solver/blob/main/mazer_solver.png)
+#### Brick breaker
+![alt text](https://github.com/sahin88/Java_Games/blob/main/bricket_breaker.png)
 
-Flappy Bird
-![alt text](https://github.com/sahin88/Python_Pygame_Maze_Solver/blob/main/mazer_solver.png)
+#### Flappy Bird
+![alt text](https://github.com/sahin88/Java_Games/blob/main/flappy_bird.png)
 ### Prerequisites
 The following items should be installed in your system:
 * Java 8 or newer.
@@ -26,16 +26,16 @@ The following items should be installed in your system:
 
 1) On the command Line
 ```
-https://github.com/sahin88/Java_Games
+$  git clone https://github.com/sahin88/Java_Games
 ```
 2) Inside Command Line 
  
 ```
-javac *game_name.java
+$ javac *game_name.java
 ```
 then 
 ```
-java *game_name.java
+$ java *game_name.java
 
 ```
 
